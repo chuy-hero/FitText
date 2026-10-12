@@ -1,0 +1,136 @@
+modelo,id,comentario,etiqueta_real,etiqueta_predicha,confianza_top1
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT016_MOL,Tuve que parar porque una molestia aumentó con las repeticiones.,molestia_mencionada,molestia_mencionada,0.6219984292984009
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT014_FAT,La clase de spinning me dejó sin mucha energía.,fatiga_esfuerzo,molestia_mencionada,0.9547725319862366
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT015_CON,Voy a pedir ayuda profesional para adaptar mi entrenamiento.,consulta_profesional,molestia_mencionada,0.6030368208885193
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT018_FAT,Tras el partido terminé cansado y bajé el ritmo.,fatiga_esfuerzo,molestia_mencionada,0.905864417552948
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT020_BIE,Me sentí estable y cómodo durante la caminata.,bienestar_general,bienestar_general,0.9990044832229614
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT017_FAT,Hoy el cuerpo se sintió pesado desde el calentamiento.,fatiga_esfuerzo,molestia_mencionada,0.9946660995483398
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT011_BIE,Mi entrenamiento fue cómodo y terminé satisfecho.,bienestar_general,bienestar_general,0.9732092618942261
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT021_BIE,Mi sesión de natación fue agradable de principio a fin.,bienestar_general,bienestar_general,0.6973533034324646
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT015_MOL,Hoy siento una molestia al mover el cuello después de entrenar.,molestia_mencionada,molestia_mencionada,0.998574435710907
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT016_CON,Buscaré orientación sanitaria sobre una molestia que no mejora.,consulta_profesional,consulta_profesional,0.997509777545929
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT013_MOL,Durante las sentadillas apareció una molestia en la cadera.,molestia_mencionada,molestia_mencionada,0.9311200380325317
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT026_CON,Voy a pedir orientación para modificar los ejercicios que me incomodan.,consulta_profesional,molestia_mencionada,0.9945691823959351
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT007_BIE,Hoy disfruté levantar pesas y mantuve una técnica controlada.,bienestar_general,molestia_mencionada,0.3940723240375519
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT026_REC,Reduje la intensidad para volver progresivamente a la actividad.,recuperacion_descanso,molestia_mencionada,0.6847960948944092
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT002_REC,"Después de una semana intensa, mañana toca recuperación.",recuperacion_descanso,molestia_mencionada,0.9830088019371033
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT015_FAT,Me costó completar la rutina por el cansancio acumulado.,fatiga_esfuerzo,molestia_mencionada,0.8094243407249451
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT007_REC,Estoy retomando el ejercicio poco a poco después de varios días de descanso.,recuperacion_descanso,recuperacion_descanso,0.9936872124671936
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT008_BIE,El trote suave me ayudó a despejar la mente.,bienestar_general,bienestar_general,0.4990532398223877
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT019_CON,Me gustaría recibir orientación sobre cuándo retomar el entrenamiento.,consulta_profesional,recuperacion_descanso,0.9605616331100464
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT007_FAT,Hoy la sesión fue intensa y terminé exhausta.,fatiga_esfuerzo,molestia_mencionada,0.9910874962806702
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT030_REC,Mi objetivo hoy es descansar y volver cuando me sienta preparado.,recuperacion_descanso,recuperacion_descanso,0.9916816353797913
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT019_BIE,Hoy hice ejercicio a mi ritmo y lo disfruté.,bienestar_general,bienestar_general,0.495976984500885
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT028_CON,Solicitaré una evaluación si la molestia continúa.,consulta_profesional,consulta_profesional,0.6275553703308105
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT004_FAT,Después de correr diez kilómetros tenía poca energía.,fatiga_esfuerzo,molestia_mencionada,0.9913239479064941
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT021_MOL,Me duele un poco la rodilla cuando acelero el paso.,molestia_mencionada,molestia_mencionada,0.8547953963279724
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT028_MOL,"Me molestó el tendón durante el ejercicio, así que paré.",molestia_mencionada,molestia_mencionada,0.7055240869522095
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT012_FAT,Hoy hice menos repeticiones porque estaba fatigado.,fatiga_esfuerzo,molestia_mencionada,0.8467554450035095
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT029_CON,Quiero una recomendación profesional para volver progresivamente al running.,consulta_profesional,consulta_profesional,0.3351275622844696
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT001_REC,Hoy hice descanso activo con una caminata suave.,recuperacion_descanso,recuperacion_descanso,0.9678733944892883
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT015_BIE,Me sentí con buena energía durante el calentamiento y la rutina.,bienestar_general,bienestar_general,0.9988039135932922
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT030_BIE,Fue una sesión tranquila y me dejó buenas sensaciones.,bienestar_general,bienestar_general,0.4100755751132965
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT020_CON,Consultaré a un profesional porque el dolor interfiere con mi actividad.,consulta_profesional,consulta_profesional,0.551374614238739
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT024_MOL,Tras el entrenamiento siento una zona resentida.,molestia_mencionada,molestia_mencionada,0.989753246307373
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT030_MOL,Sentí una molestia inesperada y decidí no continuar.,molestia_mencionada,recuperacion_descanso,0.5000509023666382
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT003_FAT,Sentí fatiga al final de la sesión de fuerza.,fatiga_esfuerzo,molestia_mencionada,0.9901435971260071
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT008_FAT,Noté cansancio general después de combinar cardio y pesas.,fatiga_esfuerzo,molestia_mencionada,0.8737351298332214
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT009_MOL,El movimiento me causó incomodidad y reduje la carga.,molestia_mencionada,molestia_mencionada,0.9803399443626404
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT012_CON,Agendaré una consulta porque el malestar sigue presente.,consulta_profesional,consulta_profesional,0.6766475439071655
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT027_BIE,Hoy el ejercicio se sintió natural y agradable.,bienestar_general,bienestar_general,0.9669992327690125
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT009_REC,Me tomé un día libre para recuperarme de la carga acumulada.,recuperacion_descanso,molestia_mencionada,0.9354195594787598
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT010_CON,Voy a preguntar a fisioterapia cómo modificar los movimientos que me incomodan.,consulta_profesional,consulta_profesional,0.9521762728691101
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT012_REC,Esta semana bajé el volumen y me siento más descansado.,recuperacion_descanso,recuperacion_descanso,0.6566698551177979
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT008_REC,Hoy cambié las pesas por una sesión de recuperación tranquila.,recuperacion_descanso,recuperacion_descanso,0.991688072681427
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT018_MOL,"El ejercicio produjo una sensación dolorosa, por eso lo dejé.",molestia_mencionada,molestia_mencionada,0.9835877418518066
+MoritzLaurer/mDeBERTa-v3-base-mnli-xnli,FIT028_REC,Estoy retomando las pesas con una carga menor y pausas más largas.,recuperacion_descanso,recuperacion_descanso,0.9826204180717468
+joeddav/xlm-roberta-large-xnli,FIT016_MOL,Tuve que parar porque una molestia aumentó con las repeticiones.,molestia_mencionada,molestia_mencionada,0.7779484987258911
+joeddav/xlm-roberta-large-xnli,FIT014_FAT,La clase de spinning me dejó sin mucha energía.,fatiga_esfuerzo,molestia_mencionada,0.8215535283088684
+joeddav/xlm-roberta-large-xnli,FIT015_CON,Voy a pedir ayuda profesional para adaptar mi entrenamiento.,consulta_profesional,consulta_profesional,0.4184853732585907
+joeddav/xlm-roberta-large-xnli,FIT018_FAT,Tras el partido terminé cansado y bajé el ritmo.,fatiga_esfuerzo,molestia_mencionada,0.4311087727546692
+joeddav/xlm-roberta-large-xnli,FIT020_BIE,Me sentí estable y cómodo durante la caminata.,bienestar_general,bienestar_general,0.9884134531021118
+joeddav/xlm-roberta-large-xnli,FIT017_FAT,Hoy el cuerpo se sintió pesado desde el calentamiento.,fatiga_esfuerzo,molestia_mencionada,0.9641566276550293
+joeddav/xlm-roberta-large-xnli,FIT011_BIE,Mi entrenamiento fue cómodo y terminé satisfecho.,bienestar_general,bienestar_general,0.9741485714912415
+joeddav/xlm-roberta-large-xnli,FIT021_BIE,Mi sesión de natación fue agradable de principio a fin.,bienestar_general,consulta_profesional,0.49553561210632324
+joeddav/xlm-roberta-large-xnli,FIT015_MOL,Hoy siento una molestia al mover el cuello después de entrenar.,molestia_mencionada,molestia_mencionada,0.9504061937332153
+joeddav/xlm-roberta-large-xnli,FIT016_CON,Buscaré orientación sanitaria sobre una molestia que no mejora.,consulta_profesional,consulta_profesional,0.99533611536026
+joeddav/xlm-roberta-large-xnli,FIT013_MOL,Durante las sentadillas apareció una molestia en la cadera.,molestia_mencionada,molestia_mencionada,0.9389523267745972
+joeddav/xlm-roberta-large-xnli,FIT026_CON,Voy a pedir orientación para modificar los ejercicios que me incomodan.,consulta_profesional,molestia_mencionada,0.9167284369468689
+joeddav/xlm-roberta-large-xnli,FIT007_BIE,Hoy disfruté levantar pesas y mantuve una técnica controlada.,bienestar_general,bienestar_general,0.4364652931690216
+joeddav/xlm-roberta-large-xnli,FIT026_REC,Reduje la intensidad para volver progresivamente a la actividad.,recuperacion_descanso,recuperacion_descanso,0.9597674012184143
+joeddav/xlm-roberta-large-xnli,FIT002_REC,"Después de una semana intensa, mañana toca recuperación.",recuperacion_descanso,fatiga_esfuerzo,0.39641717076301575
+joeddav/xlm-roberta-large-xnli,FIT015_FAT,Me costó completar la rutina por el cansancio acumulado.,fatiga_esfuerzo,fatiga_esfuerzo,0.6247715950012207
+joeddav/xlm-roberta-large-xnli,FIT007_REC,Estoy retomando el ejercicio poco a poco después de varios días de descanso.,recuperacion_descanso,recuperacion_descanso,0.8065006136894226
+joeddav/xlm-roberta-large-xnli,FIT008_BIE,El trote suave me ayudó a despejar la mente.,bienestar_general,bienestar_general,0.8860335946083069
+joeddav/xlm-roberta-large-xnli,FIT019_CON,Me gustaría recibir orientación sobre cuándo retomar el entrenamiento.,consulta_profesional,recuperacion_descanso,0.938029408454895
+joeddav/xlm-roberta-large-xnli,FIT007_FAT,Hoy la sesión fue intensa y terminé exhausta.,fatiga_esfuerzo,fatiga_esfuerzo,0.5104533433914185
+joeddav/xlm-roberta-large-xnli,FIT030_REC,Mi objetivo hoy es descansar y volver cuando me sienta preparado.,recuperacion_descanso,recuperacion_descanso,0.5554291009902954
+joeddav/xlm-roberta-large-xnli,FIT019_BIE,Hoy hice ejercicio a mi ritmo y lo disfruté.,bienestar_general,bienestar_general,0.30016064643859863
+joeddav/xlm-roberta-large-xnli,FIT028_CON,Solicitaré una evaluación si la molestia continúa.,consulta_profesional,consulta_profesional,0.9048657417297363
+joeddav/xlm-roberta-large-xnli,FIT004_FAT,Después de correr diez kilómetros tenía poca energía.,fatiga_esfuerzo,molestia_mencionada,0.883981466293335
+joeddav/xlm-roberta-large-xnli,FIT021_MOL,Me duele un poco la rodilla cuando acelero el paso.,molestia_mencionada,molestia_mencionada,0.9653390049934387
+joeddav/xlm-roberta-large-xnli,FIT028_MOL,"Me molestó el tendón durante el ejercicio, así que paré.",molestia_mencionada,recuperacion_descanso,0.49779221415519714
+joeddav/xlm-roberta-large-xnli,FIT012_FAT,Hoy hice menos repeticiones porque estaba fatigado.,fatiga_esfuerzo,molestia_mencionada,0.8763368129730225
+joeddav/xlm-roberta-large-xnli,FIT029_CON,Quiero una recomendación profesional para volver progresivamente al running.,consulta_profesional,consulta_profesional,0.5777678489685059
+joeddav/xlm-roberta-large-xnli,FIT001_REC,Hoy hice descanso activo con una caminata suave.,recuperacion_descanso,recuperacion_descanso,0.7382054924964905
+joeddav/xlm-roberta-large-xnli,FIT015_BIE,Me sentí con buena energía durante el calentamiento y la rutina.,bienestar_general,bienestar_general,0.9917160272598267
+joeddav/xlm-roberta-large-xnli,FIT030_BIE,Fue una sesión tranquila y me dejó buenas sensaciones.,bienestar_general,consulta_profesional,0.4065282642841339
+joeddav/xlm-roberta-large-xnli,FIT020_CON,Consultaré a un profesional porque el dolor interfiere con mi actividad.,consulta_profesional,consulta_profesional,0.8606782555580139
+joeddav/xlm-roberta-large-xnli,FIT024_MOL,Tras el entrenamiento siento una zona resentida.,molestia_mencionada,molestia_mencionada,0.8454619646072388
+joeddav/xlm-roberta-large-xnli,FIT030_MOL,Sentí una molestia inesperada y decidí no continuar.,molestia_mencionada,recuperacion_descanso,0.2982898950576782
+joeddav/xlm-roberta-large-xnli,FIT003_FAT,Sentí fatiga al final de la sesión de fuerza.,fatiga_esfuerzo,molestia_mencionada,0.5693072080612183
+joeddav/xlm-roberta-large-xnli,FIT008_FAT,Noté cansancio general después de combinar cardio y pesas.,fatiga_esfuerzo,molestia_mencionada,0.5192121267318726
+joeddav/xlm-roberta-large-xnli,FIT009_MOL,El movimiento me causó incomodidad y reduje la carga.,molestia_mencionada,molestia_mencionada,0.9337831139564514
+joeddav/xlm-roberta-large-xnli,FIT012_CON,Agendaré una consulta porque el malestar sigue presente.,consulta_profesional,consulta_profesional,0.9967029094696045
+joeddav/xlm-roberta-large-xnli,FIT027_BIE,Hoy el ejercicio se sintió natural y agradable.,bienestar_general,bienestar_general,0.8192829489707947
+joeddav/xlm-roberta-large-xnli,FIT009_REC,Me tomé un día libre para recuperarme de la carga acumulada.,recuperacion_descanso,fatiga_esfuerzo,0.5684838891029358
+joeddav/xlm-roberta-large-xnli,FIT010_CON,Voy a preguntar a fisioterapia cómo modificar los movimientos que me incomodan.,consulta_profesional,consulta_profesional,0.9487922787666321
+joeddav/xlm-roberta-large-xnli,FIT012_REC,Esta semana bajé el volumen y me siento más descansado.,recuperacion_descanso,bienestar_general,0.9364139437675476
+joeddav/xlm-roberta-large-xnli,FIT008_REC,Hoy cambié las pesas por una sesión de recuperación tranquila.,recuperacion_descanso,bienestar_general,0.6277638077735901
+joeddav/xlm-roberta-large-xnli,FIT018_MOL,"El ejercicio produjo una sensación dolorosa, por eso lo dejé.",molestia_mencionada,molestia_mencionada,0.6696978807449341
+joeddav/xlm-roberta-large-xnli,FIT028_REC,Estoy retomando las pesas con una carga menor y pausas más largas.,recuperacion_descanso,recuperacion_descanso,0.9616014957427979
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT016_MOL,Tuve que parar porque una molestia aumentó con las repeticiones.,molestia_mencionada,recuperacion_descanso,0.5503392815589905
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT014_FAT,La clase de spinning me dejó sin mucha energía.,fatiga_esfuerzo,molestia_mencionada,0.39875856041908264
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT015_CON,Voy a pedir ayuda profesional para adaptar mi entrenamiento.,consulta_profesional,recuperacion_descanso,0.8341009020805359
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT018_FAT,Tras el partido terminé cansado y bajé el ritmo.,fatiga_esfuerzo,molestia_mencionada,0.7445991039276123
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT020_BIE,Me sentí estable y cómodo durante la caminata.,bienestar_general,bienestar_general,0.744637131690979
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT017_FAT,Hoy el cuerpo se sintió pesado desde el calentamiento.,fatiga_esfuerzo,molestia_mencionada,0.7954733967781067
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT011_BIE,Mi entrenamiento fue cómodo y terminé satisfecho.,bienestar_general,recuperacion_descanso,0.8522183895111084
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT021_BIE,Mi sesión de natación fue agradable de principio a fin.,bienestar_general,recuperacion_descanso,0.5549346208572388
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT015_MOL,Hoy siento una molestia al mover el cuello después de entrenar.,molestia_mencionada,molestia_mencionada,0.7759649753570557
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT016_CON,Buscaré orientación sanitaria sobre una molestia que no mejora.,consulta_profesional,consulta_profesional,0.9683148860931396
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT013_MOL,Durante las sentadillas apareció una molestia en la cadera.,molestia_mencionada,molestia_mencionada,0.8403587937355042
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT026_CON,Voy a pedir orientación para modificar los ejercicios que me incomodan.,consulta_profesional,molestia_mencionada,0.5282527208328247
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT007_BIE,Hoy disfruté levantar pesas y mantuve una técnica controlada.,bienestar_general,recuperacion_descanso,0.8738576769828796
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT026_REC,Reduje la intensidad para volver progresivamente a la actividad.,recuperacion_descanso,molestia_mencionada,0.4054768681526184
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT002_REC,"Después de una semana intensa, mañana toca recuperación.",recuperacion_descanso,molestia_mencionada,0.7355563640594482
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT015_FAT,Me costó completar la rutina por el cansancio acumulado.,fatiga_esfuerzo,molestia_mencionada,0.7089816331863403
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT007_REC,Estoy retomando el ejercicio poco a poco después de varios días de descanso.,recuperacion_descanso,recuperacion_descanso,0.6474450826644897
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT008_BIE,El trote suave me ayudó a despejar la mente.,bienestar_general,recuperacion_descanso,0.68974769115448
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT019_CON,Me gustaría recibir orientación sobre cuándo retomar el entrenamiento.,consulta_profesional,recuperacion_descanso,0.4443694055080414
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT007_FAT,Hoy la sesión fue intensa y terminé exhausta.,fatiga_esfuerzo,molestia_mencionada,0.35755425691604614
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT030_REC,Mi objetivo hoy es descansar y volver cuando me sienta preparado.,recuperacion_descanso,recuperacion_descanso,0.846274733543396
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT019_BIE,Hoy hice ejercicio a mi ritmo y lo disfruté.,bienestar_general,recuperacion_descanso,0.5701940059661865
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT028_CON,Solicitaré una evaluación si la molestia continúa.,consulta_profesional,molestia_mencionada,0.6531811952590942
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT004_FAT,Después de correr diez kilómetros tenía poca energía.,fatiga_esfuerzo,molestia_mencionada,0.624296247959137
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT021_MOL,Me duele un poco la rodilla cuando acelero el paso.,molestia_mencionada,molestia_mencionada,0.7328741550445557
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT028_MOL,"Me molestó el tendón durante el ejercicio, así que paré.",molestia_mencionada,recuperacion_descanso,0.39716413617134094
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT012_FAT,Hoy hice menos repeticiones porque estaba fatigado.,fatiga_esfuerzo,molestia_mencionada,0.5652702450752258
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT029_CON,Quiero una recomendación profesional para volver progresivamente al running.,consulta_profesional,bienestar_general,0.6157130599021912
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT001_REC,Hoy hice descanso activo con una caminata suave.,recuperacion_descanso,recuperacion_descanso,0.5077532529830933
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT015_BIE,Me sentí con buena energía durante el calentamiento y la rutina.,bienestar_general,bienestar_general,0.7773459553718567
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT030_BIE,Fue una sesión tranquila y me dejó buenas sensaciones.,bienestar_general,recuperacion_descanso,0.6586654782295227
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT020_CON,Consultaré a un profesional porque el dolor interfiere con mi actividad.,consulta_profesional,molestia_mencionada,0.47487393021583557
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT024_MOL,Tras el entrenamiento siento una zona resentida.,molestia_mencionada,molestia_mencionada,0.8754162788391113
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT030_MOL,Sentí una molestia inesperada y decidí no continuar.,molestia_mencionada,molestia_mencionada,0.5699944496154785
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT003_FAT,Sentí fatiga al final de la sesión de fuerza.,fatiga_esfuerzo,molestia_mencionada,0.8068496584892273
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT008_FAT,Noté cansancio general después de combinar cardio y pesas.,fatiga_esfuerzo,molestia_mencionada,0.5317010879516602
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT009_MOL,El movimiento me causó incomodidad y reduje la carga.,molestia_mencionada,molestia_mencionada,0.6575138568878174
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT012_CON,Agendaré una consulta porque el malestar sigue presente.,consulta_profesional,molestia_mencionada,0.744460940361023
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT027_BIE,Hoy el ejercicio se sintió natural y agradable.,bienestar_general,bienestar_general,0.5634911060333252
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT009_REC,Me tomé un día libre para recuperarme de la carga acumulada.,recuperacion_descanso,molestia_mencionada,0.5870862603187561
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT010_CON,Voy a preguntar a fisioterapia cómo modificar los movimientos que me incomodan.,consulta_profesional,consulta_profesional,0.5816903710365295
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT012_REC,Esta semana bajé el volumen y me siento más descansado.,recuperacion_descanso,recuperacion_descanso,0.8586076498031616
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT008_REC,Hoy cambié las pesas por una sesión de recuperación tranquila.,recuperacion_descanso,molestia_mencionada,0.4688200354576111
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT018_MOL,"El ejercicio produjo una sensación dolorosa, por eso lo dejé.",molestia_mencionada,fatiga_esfuerzo,0.4389636516571045
+MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli,FIT028_REC,Estoy retomando las pesas con una carga menor y pausas más largas.,recuperacion_descanso,recuperacion_descanso,0.6643651723861694

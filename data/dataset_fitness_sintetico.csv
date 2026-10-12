@@ -1,0 +1,151 @@
+﻿id,comentario,etiqueta,origen,split_sugerido
+FIT001_MOL,Hoy noté una molestia leve en la rodilla después de correr.,molestia_mencionada,sintetico,evaluacion
+FIT002_MOL,"Me incomoda el hombro al hacer press, así que detuve la serie.",molestia_mencionada,sintetico,evaluacion
+FIT003_MOL,Después de entrenar piernas siento una molestia en el tobillo.,molestia_mencionada,sintetico,evaluacion
+FIT004_MOL,Durante la caminata apareció una incomodidad en la espalda.,molestia_mencionada,sintetico,evaluacion
+FIT005_MOL,Sentí una punzada en la muñeca al levantar la mancuerna y paré.,molestia_mencionada,sintetico,evaluacion
+FIT006_MOL,Me quedó una molestia muscular localizada después de la sesión.,molestia_mencionada,sintetico,evaluacion
+FIT007_MOL,Al bajar escaleras noto incómoda la rodilla tras el entrenamiento.,molestia_mencionada,sintetico,evaluacion
+FIT008_MOL,Hoy preferí no correr porque sentía molestias en el gemelo.,molestia_mencionada,sintetico,evaluacion
+FIT009_MOL,El movimiento me causó incomodidad y reduje la carga.,molestia_mencionada,sintetico,evaluacion
+FIT010_MOL,Tras el partido tengo una zona sensible y voy a descansar.,molestia_mencionada,sintetico,evaluacion
+FIT011_MOL,Noté dolor en el hombro durante el ejercicio y lo suspendí.,molestia_mencionada,sintetico,evaluacion
+FIT012_MOL,"Me molestó el talón al trotar, así que caminé de regreso.",molestia_mencionada,sintetico,evaluacion
+FIT013_MOL,Durante las sentadillas apareció una molestia en la cadera.,molestia_mencionada,sintetico,evaluacion
+FIT014_MOL,El codo se siente incómodo desde la rutina de ayer.,molestia_mencionada,sintetico,evaluacion
+FIT015_MOL,Hoy siento una molestia al mover el cuello después de entrenar.,molestia_mencionada,sintetico,evaluacion
+FIT016_MOL,Tuve que parar porque una molestia aumentó con las repeticiones.,molestia_mencionada,sintetico,evaluacion
+FIT017_MOL,Me incomoda apoyar el pie después de la carrera.,molestia_mencionada,sintetico,evaluacion
+FIT018_MOL,"El ejercicio produjo una sensación dolorosa, por eso lo dejé.",molestia_mencionada,sintetico,evaluacion
+FIT019_MOL,Después del gimnasio siento sensibilidad en la zona lumbar.,molestia_mencionada,sintetico,evaluacion
+FIT020_MOL,Al hacer flexiones noté molestia en la muñeca.,molestia_mencionada,sintetico,evaluacion
+FIT021_MOL,Me duele un poco la rodilla cuando acelero el paso.,molestia_mencionada,sintetico,evaluacion
+FIT022_MOL,Hoy no hice saltos porque sentía una molestia en el tobillo.,molestia_mencionada,sintetico,evaluacion
+FIT023_MOL,Una incomodidad en el hombro hizo que cambiara el ejercicio.,molestia_mencionada,sintetico,evaluacion
+FIT024_MOL,Tras el entrenamiento siento una zona resentida.,molestia_mencionada,sintetico,evaluacion
+FIT025_MOL,El dolor apareció al correr cuesta abajo y reduje el ritmo.,molestia_mencionada,sintetico,evaluacion
+FIT026_MOL,Noté una molestia en el muslo durante los cambios de velocidad.,molestia_mencionada,sintetico,evaluacion
+FIT027_MOL,El movimiento de la espalda me resulta incómodo hoy.,molestia_mencionada,sintetico,evaluacion
+FIT028_MOL,"Me molestó el tendón durante el ejercicio, así que paré.",molestia_mencionada,sintetico,evaluacion
+FIT029_MOL,Después de levantar peso siento dolor localizado en el antebrazo.,molestia_mencionada,sintetico,evaluacion
+FIT030_MOL,Sentí una molestia inesperada y decidí no continuar.,molestia_mencionada,sintetico,evaluacion
+FIT001_REC,Hoy hice descanso activo con una caminata suave.,recuperacion_descanso,sintetico,evaluacion
+FIT002_REC,"Después de una semana intensa, mañana toca recuperación.",recuperacion_descanso,sintetico,evaluacion
+FIT003_REC,Dormí bien y hoy me siento recuperado para entrenar suave.,recuperacion_descanso,sintetico,evaluacion
+FIT004_REC,Dedicaré el día a descansar y volveré gradualmente a la rutina.,recuperacion_descanso,sintetico,evaluacion
+FIT005_REC,Mi plan de hoy es movilidad ligera y descanso.,recuperacion_descanso,sintetico,evaluacion
+FIT006_REC,Tras la carrera hice estiramientos suaves y una pausa.,recuperacion_descanso,sintetico,evaluacion
+FIT007_REC,Estoy retomando el ejercicio poco a poco después de varios días de descanso.,recuperacion_descanso,sintetico,evaluacion
+FIT008_REC,Hoy cambié las pesas por una sesión de recuperación tranquila.,recuperacion_descanso,sintetico,evaluacion
+FIT009_REC,Me tomé un día libre para recuperarme de la carga acumulada.,recuperacion_descanso,sintetico,evaluacion
+FIT010_REC,"Después de entrenar, prioricé hidratación, comida y sueño.",recuperacion_descanso,sintetico,evaluacion
+FIT011_REC,Voy a mantener una sesión ligera para facilitar la recuperación.,recuperacion_descanso,sintetico,evaluacion
+FIT012_REC,Esta semana bajé el volumen y me siento más descansado.,recuperacion_descanso,sintetico,evaluacion
+FIT013_REC,Mi entrenador programó un día sin intensidad para recuperar.,recuperacion_descanso,sintetico,evaluacion
+FIT014_REC,"Hoy solo hice movilidad y respiración, sin trabajo pesado.",recuperacion_descanso,sintetico,evaluacion
+FIT015_REC,"Después del fondo, reservé el día siguiente para descansar.",recuperacion_descanso,sintetico,evaluacion
+FIT016_REC,Volví a entrenar con menos carga después de una pausa.,recuperacion_descanso,sintetico,evaluacion
+FIT017_REC,Estoy aumentando la actividad de forma gradual tras descansar.,recuperacion_descanso,sintetico,evaluacion
+FIT018_REC,Hoy hice bicicleta suave como recuperación.,recuperacion_descanso,sintetico,evaluacion
+FIT019_REC,Una noche completa de sueño me ayudó a sentirme más descansado.,recuperacion_descanso,sintetico,evaluacion
+FIT020_REC,Dejé un día entre sesiones para recuperarme mejor.,recuperacion_descanso,sintetico,evaluacion
+FIT021_REC,Mi rutina incluye descanso entre entrenamientos exigentes.,recuperacion_descanso,sintetico,evaluacion
+FIT022_REC,Hoy no entrené fuerte porque tocaba recuperación planificada.,recuperacion_descanso,sintetico,evaluacion
+FIT023_REC,Terminé la sesión con vuelta a la calma y movilidad.,recuperacion_descanso,sintetico,evaluacion
+FIT024_REC,Voy a priorizar una buena noche de sueño antes de correr.,recuperacion_descanso,sintetico,evaluacion
+FIT025_REC,Tras la competición hice una caminata corta y descansé.,recuperacion_descanso,sintetico,evaluacion
+FIT026_REC,Reduje la intensidad para volver progresivamente a la actividad.,recuperacion_descanso,sintetico,evaluacion
+FIT027_REC,Hoy fue un día de descanso completo del gimnasio.,recuperacion_descanso,sintetico,evaluacion
+FIT028_REC,Estoy retomando las pesas con una carga menor y pausas más largas.,recuperacion_descanso,sintetico,evaluacion
+FIT029_REC,"Después de varios días de entrenamiento, programé recuperación.",recuperacion_descanso,sintetico,evaluacion
+FIT030_REC,Mi objetivo hoy es descansar y volver cuando me sienta preparado.,recuperacion_descanso,sintetico,evaluacion
+FIT001_FAT,Hoy terminé la rutina con las piernas muy cansadas.,fatiga_esfuerzo,sintetico,evaluacion
+FIT002_FAT,El entrenamiento de intervalos me dejó agotado.,fatiga_esfuerzo,sintetico,evaluacion
+FIT003_FAT,Sentí fatiga al final de la sesión de fuerza.,fatiga_esfuerzo,sintetico,evaluacion
+FIT004_FAT,Después de correr diez kilómetros tenía poca energía.,fatiga_esfuerzo,sintetico,evaluacion
+FIT005_FAT,Las últimas repeticiones se sintieron pesadas por el cansancio.,fatiga_esfuerzo,sintetico,evaluacion
+FIT006_FAT,Me costó mantener el ritmo porque estaba fatigado.,fatiga_esfuerzo,sintetico,evaluacion
+FIT007_FAT,Hoy la sesión fue intensa y terminé exhausta.,fatiga_esfuerzo,sintetico,evaluacion
+FIT008_FAT,Noté cansancio general después de combinar cardio y pesas.,fatiga_esfuerzo,sintetico,evaluacion
+FIT009_FAT,Durante la última serie sentí que me faltaba energía.,fatiga_esfuerzo,sintetico,evaluacion
+FIT010_FAT,El entrenamiento largo me dejó con sensación de agotamiento.,fatiga_esfuerzo,sintetico,evaluacion
+FIT011_FAT,Me cansé más de lo habitual durante el trote.,fatiga_esfuerzo,sintetico,evaluacion
+FIT012_FAT,Hoy hice menos repeticiones porque estaba fatigado.,fatiga_esfuerzo,sintetico,evaluacion
+FIT013_FAT,Después de las cuestas terminé con las piernas pesadas.,fatiga_esfuerzo,sintetico,evaluacion
+FIT014_FAT,La clase de spinning me dejó sin mucha energía.,fatiga_esfuerzo,sintetico,evaluacion
+FIT015_FAT,Me costó completar la rutina por el cansancio acumulado.,fatiga_esfuerzo,sintetico,evaluacion
+FIT016_FAT,Sentí fatiga al subir la intensidad en la bicicleta.,fatiga_esfuerzo,sintetico,evaluacion
+FIT017_FAT,Hoy el cuerpo se sintió pesado desde el calentamiento.,fatiga_esfuerzo,sintetico,evaluacion
+FIT018_FAT,Tras el partido terminé cansado y bajé el ritmo.,fatiga_esfuerzo,sintetico,evaluacion
+FIT019_FAT,El circuito fue exigente y acabé agotada.,fatiga_esfuerzo,sintetico,evaluacion
+FIT020_FAT,Me falta energía después de varios días de entrenamientos seguidos.,fatiga_esfuerzo,sintetico,evaluacion
+FIT021_FAT,Durante el rodaje me noté cansado antes de lo esperado.,fatiga_esfuerzo,sintetico,evaluacion
+FIT022_FAT,Las pesas me dejaron con fatiga muscular general.,fatiga_esfuerzo,sintetico,evaluacion
+FIT023_FAT,Hoy hice una sesión corta porque me sentía sin energía.,fatiga_esfuerzo,sintetico,evaluacion
+FIT024_FAT,El calor hizo que me cansara más durante la carrera.,fatiga_esfuerzo,sintetico,evaluacion
+FIT025_FAT,Me costó mantener la técnica al final por el cansancio.,fatiga_esfuerzo,sintetico,evaluacion
+FIT026_FAT,Después de la rutina funcional terminé exhausto.,fatiga_esfuerzo,sintetico,evaluacion
+FIT027_FAT,Estoy notando cansancio acumulado esta semana.,fatiga_esfuerzo,sintetico,evaluacion
+FIT028_FAT,La sesión de hoy se sintió más dura de lo normal.,fatiga_esfuerzo,sintetico,evaluacion
+FIT029_FAT,Me quedé sin energía en los últimos minutos de cardio.,fatiga_esfuerzo,sintetico,evaluacion
+FIT030_FAT,Hoy terminé cansada y preferí bajar la intensidad.,fatiga_esfuerzo,sintetico,evaluacion
+FIT001_BIE,Me sentí bien durante toda la sesión de gimnasio.,bienestar_general,sintetico,evaluacion
+FIT002_BIE,Disfruté la carrera y terminé con buenas sensaciones.,bienestar_general,sintetico,evaluacion
+FIT003_BIE,Hoy entrené con energía y buen ánimo.,bienestar_general,sintetico,evaluacion
+FIT004_BIE,Me gustó la rutina y pude mantener un ritmo cómodo.,bienestar_general,sintetico,evaluacion
+FIT005_BIE,Después de hacer movilidad me siento más suelto.,bienestar_general,sintetico,evaluacion
+FIT006_BIE,Completé mi entrenamiento sin molestias y con buenas sensaciones.,bienestar_general,sintetico,evaluacion
+FIT007_BIE,Hoy disfruté levantar pesas y mantuve una técnica controlada.,bienestar_general,sintetico,evaluacion
+FIT008_BIE,El trote suave me ayudó a despejar la mente.,bienestar_general,sintetico,evaluacion
+FIT009_BIE,Salí a caminar y regresé de buen humor.,bienestar_general,sintetico,evaluacion
+FIT010_BIE,Me sentí fuerte durante la sesión de hoy.,bienestar_general,sintetico,evaluacion
+FIT011_BIE,Mi entrenamiento fue cómodo y terminé satisfecho.,bienestar_general,sintetico,evaluacion
+FIT012_BIE,Hoy pude hacer todos los ejercicios previstos con tranquilidad.,bienestar_general,sintetico,evaluacion
+FIT013_BIE,Disfruté la clase de yoga y terminé relajada.,bienestar_general,sintetico,evaluacion
+FIT014_BIE,El paseo en bicicleta fue agradable y llevadero.,bienestar_general,sintetico,evaluacion
+FIT015_BIE,Me sentí con buena energía durante el calentamiento y la rutina.,bienestar_general,sintetico,evaluacion
+FIT016_BIE,Hoy tuve una sesión fluida y controlada.,bienestar_general,sintetico,evaluacion
+FIT017_BIE,Me encuentro animado con mi progreso deportivo.,bienestar_general,sintetico,evaluacion
+FIT018_BIE,Terminé el entrenamiento con una sensación positiva.,bienestar_general,sintetico,evaluacion
+FIT019_BIE,Hoy hice ejercicio a mi ritmo y lo disfruté.,bienestar_general,sintetico,evaluacion
+FIT020_BIE,Me sentí estable y cómodo durante la caminata.,bienestar_general,sintetico,evaluacion
+FIT021_BIE,Mi sesión de natación fue agradable de principio a fin.,bienestar_general,sintetico,evaluacion
+FIT022_BIE,Hoy mantuve una buena técnica y un ritmo constante.,bienestar_general,sintetico,evaluacion
+FIT023_BIE,Después del entrenamiento me siento de buen ánimo.,bienestar_general,sintetico,evaluacion
+FIT024_BIE,El calentamiento fue cómodo y me preparó bien para la sesión.,bienestar_general,sintetico,evaluacion
+FIT025_BIE,Estoy contento con la constancia que llevo en el gimnasio.,bienestar_general,sintetico,evaluacion
+FIT026_BIE,Disfruté la ruta de running sin buscar velocidad.,bienestar_general,sintetico,evaluacion
+FIT027_BIE,Hoy el ejercicio se sintió natural y agradable.,bienestar_general,sintetico,evaluacion
+FIT028_BIE,Terminé la sesión satisfecho con el esfuerzo realizado.,bienestar_general,sintetico,evaluacion
+FIT029_BIE,Me sentí cómodo al hacer la rutina adaptada.,bienestar_general,sintetico,evaluacion
+FIT030_BIE,Fue una sesión tranquila y me dejó buenas sensaciones.,bienestar_general,sintetico,evaluacion
+FIT001_CON,"Como la molestia persiste, pediré orientación a un profesional sanitario.",consulta_profesional,sintetico,evaluacion
+FIT002_CON,Voy a consultar con fisioterapia antes de retomar los ejercicios intensos.,consulta_profesional,sintetico,evaluacion
+FIT003_CON,Prefiero pedir una valoración profesional antes de volver a correr.,consulta_profesional,sintetico,evaluacion
+FIT004_CON,Solicitaré asesoramiento médico porque la molestia no desaparece.,consulta_profesional,sintetico,evaluacion
+FIT005_CON,Quiero hablar con un profesional sobre cómo volver a entrenar gradualmente.,consulta_profesional,sintetico,evaluacion
+FIT006_CON,Voy a consultar a un especialista para recibir orientación individual.,consulta_profesional,sintetico,evaluacion
+FIT007_CON,"Antes de aumentar la carga, pediré consejo profesional.",consulta_profesional,sintetico,evaluacion
+FIT008_CON,Me recomendaron buscar una valoración por la molestia persistente.,consulta_profesional,sintetico,evaluacion
+FIT009_CON,Haré una consulta para saber cómo adaptar mi actividad de forma segura.,consulta_profesional,sintetico,evaluacion
+FIT010_CON,Voy a preguntar a fisioterapia cómo modificar los movimientos que me incomodan.,consulta_profesional,sintetico,evaluacion
+FIT011_CON,Prefiero recibir orientación profesional antes de continuar con ese ejercicio.,consulta_profesional,sintetico,evaluacion
+FIT012_CON,Agendaré una consulta porque el malestar sigue presente.,consulta_profesional,sintetico,evaluacion
+FIT013_CON,Consultaré con un profesional sobre el regreso a la actividad deportiva.,consulta_profesional,sintetico,evaluacion
+FIT014_CON,Quiero una valoración antes de volver a hacer saltos.,consulta_profesional,sintetico,evaluacion
+FIT015_CON,Voy a pedir ayuda profesional para adaptar mi entrenamiento.,consulta_profesional,sintetico,evaluacion
+FIT016_CON,Buscaré orientación sanitaria sobre una molestia que no mejora.,consulta_profesional,sintetico,evaluacion
+FIT017_CON,"Antes de volver a la competición, consultaré con un profesional.",consulta_profesional,sintetico,evaluacion
+FIT018_CON,Voy a revisar con un especialista cómo progresar tras la pausa.,consulta_profesional,sintetico,evaluacion
+FIT019_CON,Me gustaría recibir orientación sobre cuándo retomar el entrenamiento.,consulta_profesional,sintetico,evaluacion
+FIT020_CON,Consultaré a un profesional porque el dolor interfiere con mi actividad.,consulta_profesional,sintetico,evaluacion
+FIT021_CON,Prefiero no adivinar y pedir una valoración sobre la molestia.,consulta_profesional,sintetico,evaluacion
+FIT022_CON,Voy a solicitar recomendaciones individualizadas para volver a entrenar.,consulta_profesional,sintetico,evaluacion
+FIT023_CON,Buscaré asesoramiento profesional antes de probar una rutina nueva.,consulta_profesional,sintetico,evaluacion
+FIT024_CON,Quiero hablar con un especialista sobre mi recuperación deportiva.,consulta_profesional,sintetico,evaluacion
+FIT025_CON,Haré una consulta antes de retomar las cargas habituales.,consulta_profesional,sintetico,evaluacion
+FIT026_CON,Voy a pedir orientación para modificar los ejercicios que me incomodan.,consulta_profesional,sintetico,evaluacion
+FIT027_CON,Consultaré con un profesional sobre la actividad que puedo realizar.,consulta_profesional,sintetico,evaluacion
+FIT028_CON,Solicitaré una evaluación si la molestia continúa.,consulta_profesional,sintetico,evaluacion
+FIT029_CON,Quiero una recomendación profesional para volver progresivamente al running.,consulta_profesional,sintetico,evaluacion
+FIT030_CON,"Antes de retomar el gimnasio, pediré orientación individual.",consulta_profesional,sintetico,evaluacion
