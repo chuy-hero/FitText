@@ -1,0 +1,42 @@
+
+## MoritzLaurer/mDeBERTa-v3-base-mnli-xnli
+                       precision    recall  f1-score   support
+
+  molestia_mencionada       0.35      0.89      0.50         9
+recuperacion_descanso       0.75      0.67      0.71         9
+      fatiga_esfuerzo       0.00      0.00      0.00         9
+    bienestar_general       1.00      0.89      0.94         9
+ consulta_profesional       1.00      0.67      0.80         9
+
+             accuracy                           0.62        45
+            macro avg       0.62      0.62      0.59        45
+         weighted avg       0.62      0.62      0.59        45
+
+
+## joeddav/xlm-roberta-large-xnli
+                       precision    recall  f1-score   support
+
+  molestia_mencionada       0.47      0.78      0.58         9
+recuperacion_descanso       0.62      0.56      0.59         9
+      fatiga_esfuerzo       0.50      0.22      0.31         9
+    bienestar_general       0.78      0.78      0.78         9
+ consulta_profesional       0.78      0.78      0.78         9
+
+             accuracy                           0.62        45
+            macro avg       0.63      0.62      0.61        45
+         weighted avg       0.63      0.62      0.61        45
+
+
+## MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+                       precision    recall  f1-score   support
+
+  molestia_mencionada       0.26      0.67      0.38         9
+recuperacion_descanso       0.33      0.56      0.42         9
+      fatiga_esfuerzo       0.00      0.00      0.00         9
+    bienestar_general       0.75      0.33      0.46         9
+ consulta_profesional       1.00      0.22      0.36         9
+
+             accuracy                           0.36        45
+            macro avg       0.47      0.36      0.32        45
+         weighted avg       0.47      0.36      0.32        45
+
